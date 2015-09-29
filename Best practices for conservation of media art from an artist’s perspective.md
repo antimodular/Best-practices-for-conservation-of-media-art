@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/antimodular/Best-practices-for-conservation-of-media-art/master/33q.png)
 #Best practices for conservation of media art from an artist’s perspective
 
-RAFAEL LOZANO-HEMMER · SEPTEMBER 28, 2015
+[RAFAEL LOZANO-HEMMER](https://www.lozano-hemmer.com) · SEPTEMBER 28, 2015
 
 
 Dear colleague,
