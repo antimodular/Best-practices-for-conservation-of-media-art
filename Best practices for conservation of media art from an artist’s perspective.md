@@ -2,8 +2,9 @@
 
 SEPTEMBER 28, 2015
 
-## Introduction
+
 Dear colleague,
+
 For most artists I know “Art conservation” is a troubling affair: we are already too busy maintaining operations as it is, we think of our work as a “living” entity not as a fossil, we are often unsure if a project is finished, we snub techniques that may help us document, organize or account for our work as something that stifles our experimentation and creative process. In addition, especially when we are resentful that institutions are not collecting and preserving our work in the first place, we reject the whole concept of an Art collection, —agreeing with critical historians for whom collecting and preserving contemporary Art represents an obsessive-compulsive vampiric culture of suspended animation and speculation that is grounded in a neo-colonial, ostentatious, identitarian drive: Nietzsche’s “will to power” mixed with Macpherson’s “possessive individualism”.
 For this text let’s assume you are already at peace with the contradiction that is conservation: you are now interested in both creating the work and overseeing its death or zombiefication. Perhaps despite being a staunch democratic socialist you now have your own Art collection. Or maybe you have met a few collectors who take risks with you, acquire your work and help keep your studio afloat financially. Most importantly, especially if you are an insecure megalomaniac like me, you don’t want to disappear from history like so many great artists who are not collected by important Museums.
 So here we are, thinking about the topic of conservation in media art. As you know, there is a plethora of existing initiatives to preserve media artworks, but these are always from the perspective of the institutions that collect them. While most institutional programs include excellent artist-oriented components like interviews and questionnaires, the programs are all a posteriori, almost forensic, as they look at the work in retrospect, as a snapshot of time.
@@ -74,9 +75,13 @@ This text is written to outline what artists may choose to do on the subject in 
 - Providing technical support can be a nightmare in Media Art. Not providing it is even worse. If a piece fails the collector needs to know exactly who to call and have a support network. If they don’t it is possible they will never invest in media art again. Often artists make networks that include their galleries, trusted technicians or AV companies. In our case here is what we ask the collectors to do in case of failure:
 
 i) Read the manual. Over 95% of failures are something simple like a power cable that is not nestled in fully.
+
 ii) Contact the installer who was trained by you or your technician, he or she should be able to troubleshoot at a higher level.
+
 iii) Contact the gallery in case they have a technician who can help.
+
 iv) Call or email my studio and we will try to fix the problem remotely for free, over the phone and remote login if available. 
+
 v) If the problem is not solved, we are happy to go on site to solve it. The costs are: return flight for you or the technician to go to the city, accommodation and per diem, any parts that needed replacement, and $750, or some other daily fee you establish, for honorarium. Please note a travel day is charged at half the daily rate. It is my experience that collectors rather get direct support from the artist studio even if that may be costly. This money helps the studio maintain operations and instead of technical support being a nightmare it is now a source of income. 
 
 - Provide a migration path and explain versioning for artwork. When collectors acquire a media artwork they need to know they are getting an “event-based” living piece that is closer to a performing arts commission than a traditional visual artwork. Many conservators understandably cringe at the possibility of an artwork changing over time, but that is exactly what Media Art should aspire to do. In an epic conversation with Tate expert and friend Pip Laurenson, I realized that what she was after was completely different but not entirely incompatible with what I envisioned. Tate acquired my work “Subtitled Public” made in 2005. In this work you enter an empty room, are tracked by computerized surveillance, and a random verb is projected on your body which follows you everywhere, —the only way to get rid of the word is to touch somebody and exchange words with him or her. The project was written in Delphi, using firewire cameras, IR illuminators and XGA projectors. Using an impressive and comprehensive method Pip ensured that the piece that is at Tate can be performed using these original technologies, giving the public a snapshot of what computerized tracking was like in 2005. So far so good. Ten years later there are hardly any Delphi programmers, firewire is dead, projectors now have over 10x the pixel resolution and Kinect2 tracking is orders of magnitude faster, more accurate and easier to install. I am now planning a migration path for “Subtitled Public” to work with these new technologies because this particular project is not about the specific tracking and projection used but about the experience of words branding the public. I am eager to see the project in a second version because the experience will be more ominous. The cost for this migration is relatively low, especially if you consider that you would not need to stockpile older gear or interpret Delphi code. Versioning is almost as if a collector buys a piece of software for an initial amount, then the artist improves this over time (in a way the artist provides a Conservation path for the artwork) and charges a small upgrade fee. Like in industry, versioning can also be a source of income for the studio. Of course in the future Tate can choose to exhibit either version or both. It depends on the show. The key is not to think that both these approaches are mutually exclusive. Obviously, the artist cannot go and offer version 2 to a different collector, a migration is available only to the collector who originally acquired the work.
@@ -100,51 +105,3 @@ Version 0.9.1
 PS. The cover image is “33 Questions per Minute” a piece from 2000 which ran on Windows 98 and was programmed in Delphi. In 2006 MoMA’s acquired the work and used my source code to port it to C++ and run it on Linux, thus proving that stockpiling old PCs was not necessary to assure conservation. That was some next level shit right there and a big relief for all. I have only now found this new initiative from the Museum and I shall look at it closely <http://www.moma.org/explore/inside_out/2015/05/13/open-sourcing-momas-digital-vault/>
 
 PS2. (Here is the text I used to present this text on Facebook. I am copying it here as it has important acknowledgements). I want to acknowledge the talks I have had with numerous friends and colleagues, most notably my studio assistants and the great Kim Brickley whose interviews helped me put some order to it all; but also Steven Sacks, Patricia Ortiz Monasterio, Zimoun, Daniel Canogar, Pip Laurenson, Glenn Wharton, Christiane Paul, Ben Fino-Radin, Kate Lewis, Sarah Cook, Beryl Graham, Matthew Biederman, Kathleen Forde, Rudolf Frieling, Barbara J. London, Pablo Helguera, Colin Griffiths, Alain Depocas, Jean Gagnon, Abigail Susik, Steve Dietz, Erkki Huhtamo, and other artists, collectors, historians, curators and conservators who like talking about this kind of thing.
-
-
-<http://lozano-hemmer.com/software/level_of_confidence/Nivel_de_Confianza_v21.zip>
-
-Once you have that Unzip the folder and place it on the desktop or anywhere you want. Inside the "Level of Confidence" folder find the LOC_xx.app icon (xx stands for the version number) that looks like this:
-
-![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/icon_small.png)
-
-Drag this icon in to the Dock for convenience. Open "System Preferences"
-go to "User &Groups"->"Login Items" and add the LOC_xx.app icon to the list of items that will automatically start on log in.
-- Go to "Desktop & Screen Saver" and set Screen Saver to "Start after" never.
-- Go to "Energy Saver" and unselect "Put hard disks to sleep ...".
-- Go to "Displays" and set "Rotation" to 90 ̊. 
-- While still in "Display" check that the resolution is set to 1920x1080.
-- If you use a laptop with OSX 10.9 or higher go to “Mission Control” and unselect “Automatically rearrange ... “ and “Displays have separate Spaces”, otherwise the software will not run on your external Display.
-- If you get a warning that the project is from an “unidentified developer” go to the preferences -> “security and privacy” and select “ Allow apps dowloaded from anywhere”.
-
-
-## Calibration
-When the software starts the live camera view will be visible for 10 seconds. You can use this time to point the camera. After these 10 seconds the camera view disappears and the artwork will be displayed. If you need more then 10 seconds simply press the TAB key on the keyboard and the timer will be reset to give you another 30 seconds.
-
-The current version (v_21) comes in Spanish and English. Simply press the SPACE bar to switch between languages.
-
-To exit the software press the ESC key.
-
-## Text
-Please put the following text next to the work:
-
-“Level of Confidence” by Rafael Lozano-Hemmer, 2015. A face-recognition camera that has been trained with the faces of the 43 disappeared students from Ayotzinapa school in Iguala, Mexico. To acquire or exhibit this work please contact <karine@antimodular.com> all proceeds will go to fund scholarships in the affected community.
-
-
-## Information
-For more information on this project, videos, photos and press, please visit: 
-
-<http://www.lozano-hemmer.com/level_of_confidence.php>
-
-To download the source code please visit our GitHub. If you program on OpenFrameworks, you can modify the project to look for other missing people. 
-
-<https://github.com/antimodular/Level-of-Confidence>
-
-## Images
-Screen shot:
-
-![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/Screen_Shot.png)
-
-3D-render of the setup:
-
-![](https://raw.githubusercontent.com/antimodular/Level-of-Confidence/master/images/3d_model.png)
