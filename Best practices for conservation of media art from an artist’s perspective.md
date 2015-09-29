@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/antimodular/Best-practices-for-conservation-of-media-art/master/33q.png)
 #Best practices for conservation of media art from an artist’s perspective
 
 SEPTEMBER 28, 2015
