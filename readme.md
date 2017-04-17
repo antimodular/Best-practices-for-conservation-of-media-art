@@ -1,5 +1,5 @@
 ![](http://lozano-hemmer.com/ss/33q.png)
-#Best practices for conservation of media art from an artist’s perspective
+# Best practices for conservation of media art from an artist’s perspective
 
 [RAFAEL LOZANO-HEMMER](http://lozano-hemmer.com) · SEPTEMBER 28, 2015
 
