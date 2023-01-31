@@ -1,4 +1,4 @@
-![]([http://lozano-hemmer.com/ss/33q.png](https://www.lozano-hemmer.com/image_sets/33_questions_per_minute/monterrey_2019/33_questions_per_minute_monterrey_2019_my_505A7543.jpg)
+![](https://www.lozano-hemmer.com/image_sets/33_questions_per_minute/monterrey_2019/33_questions_per_minute_monterrey_2019_my_505A7543.jpg)
 
 # Best practices for conservation of media art from an artist’s perspective
 
