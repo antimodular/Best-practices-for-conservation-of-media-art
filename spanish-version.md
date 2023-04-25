@@ -5,6 +5,9 @@
 
 Traducción al español: [Daniela Mibashan](https://danimiba.art/)
 
+![](https://www.lozano-hemmer.com/image_sets/33_questions_per_minute/monterrey_2019/33_questions_per_minute_monterrey_2019_my_505A7543.jpg)
+
+
 Estimado/a colega:
 
   
@@ -119,6 +122,6 @@ v) Si el problema no se resuelve, estaremos encantados de ir al lugar para resol
 
 Versión 0.9.1
 
-P.D.: La imagen de portada es "33 Questiones per Minute", una pieza del 2000 que se ejecutaba en Windows 98 y se programó en Delphi. En 2006, el MoMA adquirió la obra y usó mi código fuente para portarlo a C++ y ejecutarlo en Linux, demostrando así que no era necesario almacenar PCs viejas para asegurar la conservación. Eso fue algo espectacular y un gran alivio para todos. Recién ahora encontré esta nueva iniciativa del Museo y la miraré en detalle <https://web.archive.org/web/20150805115404/moma.org/explore/inside_out/2015/05/13/open-sourcing-momas-digital-vault/>
+P.D.: La imagen de portada es "33 Questiones per Minute", una pieza del 2000 que se ejecutaba en Windows 98 y se programó en Delphi. En 2006, el MoMA adquirió la obra y usó mi código fuente para portarlo a C++ y ejecutarlo en Linux, demostrando así que no era necesario almacenar PCs viejas para asegurar la conservación. Eso fue algo espectacular y un gran alivio para todos. Recién ahora encontré esta nueva iniciativa del Museo y la miraré en detalle [http://www.moma.org/explore/inside_out/2015/05/13/open-sourcing-momas-digital-vault/](https://web.archive.org/web/20150805115404/moma.org/explore/inside_out/2015/05/13/open-sourcing-momas-digital-vault/)
 
 P.D.2: Quiero agradecer las charlas que he tenido con numerosos amigos y colegas, sobre todo mis asistentes de estudio y la gran Kim Brickley cuyas entrevistas me ayudaron a poner un poco de orden a todo esto; pero también Steven Sacks, Patricia Ortiz Monasterio, Zimoun, Daniel Canogar, Pip Laurenson, Glenn Wharton, Christiane Paul, Ben Fino-Radin, Kate Lewis, Sarah Cook, Beryl Graham, Matthew Biederman, Kathleen Forde, Rudolf Frieling, Barbara J. London , Pablo Helguera, Colin Griffiths, Alain Depocas, Jean Gagnon, Abigail Susik, Steve Dietz, Erkki Huhtamo, y otros/as artistas, coleccionistas, historiadores, curadores y conservadores a los/as que les gusta hablar de este tipo de cosas.
