@@ -1,7 +1,7 @@
-![](http://lozano-hemmer.com/ss/33q.png)
-#Best practices for conservation of media art from an artist’s perspective
-
+# Best practices for conservation of media art from an artist’s perspective
 [RAFAEL LOZANO-HEMMER](http://lozano-hemmer.com) · SEPTEMBER 28, 2015
+
+![](https://www.lozano-hemmer.com/image_sets/33_questions_per_minute/monterrey_2019/33_questions_per_minute_monterrey_2019_my_505A7543.jpg)
 
 
 Dear colleague,
@@ -106,6 +106,6 @@ This text is written to outline what artists may choose to do on the subject in 
 
 Version 0.9.1
 
-PS. The cover image is “33 Questions per Minute” a piece from 2000 which ran on Windows 98 and was programmed in Delphi. In 2006 MoMA’s acquired the work and used my source code to port it to C++ and run it on Linux, thus proving that stockpiling old PCs was not necessary to assure conservation. That was some next level shit right there and a big relief for all. I have only now found this new initiative from the Museum and I shall look at it closely <https://web.archive.org/web/20150805115404/moma.org/explore/inside_out/2015/05/13/open-sourcing-momas-digital-vault/>
+PS. The cover image is “33 Questions per Minute” a piece from 2000 which ran on Windows 98 and was programmed in Delphi. In 2006 MoMA’s acquired the work and used my source code to port it to C++ and run it on Linux, thus proving that stockpiling old PCs was not necessary to assure conservation. That was some next level shit right there and a big relief for all. I have only now found this new initiative from the Museum and I shall look at it closely [http://www.moma.org/explore/inside_out/2015/05/13/open-sourcing-momas-digital-vault/](https://web.archive.org/web/20150805115404/moma.org/explore/inside_out/2015/05/13/open-sourcing-momas-digital-vault/)
 
 PS2. I want to acknowledge the talks I have had with numerous friends and colleagues, most notably my studio assistants and the great Kim Brickley whose interviews helped me put some order to it all; but also Steven Sacks, Patricia Ortiz Monasterio, Zimoun, Daniel Canogar, Pip Laurenson, Glenn Wharton, Christiane Paul, Ben Fino-Radin, Kate Lewis, Sarah Cook, Beryl Graham, Matthew Biederman, Kathleen Forde, Rudolf Frieling, Barbara J. London, Pablo Helguera, Colin Griffiths, Alain Depocas, Jean Gagnon, Abigail Susik, Steve Dietz, Erkki Huhtamo, and other artists, collectors, historians, curators and conservators who like talking about this kind of thing.
