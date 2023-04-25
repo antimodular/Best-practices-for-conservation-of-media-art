@@ -1,4 +1,4 @@
-The MIT License for Text Documents
+Modified MIT License for Text Documents
 
 Copyright (c) [2015] [Rafael Lozano-Hemmer]
 
