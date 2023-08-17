@@ -1,0 +1,3 @@
+build/*
+*.bat
+.venv/
