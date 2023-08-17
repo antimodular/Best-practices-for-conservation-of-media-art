@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "Best practices for conservation of media art from an artist's perspective"
+project = "Conservation, arts, medias"
 copyright = '2023, Rafael Lozano-Hemmer'
 author = 'Rafael Lozano-Hemmer'
 release = '0.9.1'
@@ -14,7 +14,7 @@ release = '0.9.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['myst_parser']
 
 templates_path = ['_templates']
 exclude_patterns = []
